@@ -39,3 +39,7 @@ The program must be run as root or **apt** will fail.
 
 ## EXAMPLE
 **copyapt** --cut-at /xenial *aptsource.lst* *aptdest.lst*
+
+## WARNING
+This is very new. The *INSTALL* file needs instructions appropriate to
+**github** and the the manpage, *copyapt.1* is presently empty.
